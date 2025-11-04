@@ -10,8 +10,6 @@ This Dashboard Visualizes
 . Gender wise statistics of graduation
 . Higher education trends 
 
-<img width="1312" height="736" alt="Screenshot 2025-11-04 102840" src="https://github.com/user-attachments/assets/4d514d10-9687-4aa2-90ec-afe5e461b101" />
-
 ## Insights
 . *Malappuram* has the *highest population* and *highest literacy rate*.
 . *Wayanad* records the *lowest literacy rate*.
@@ -24,7 +22,7 @@ This Dashboard Visualizes
 . Mostly the *Interest in Education* remains in the *age group of 18-24*
 
 ## Tools
- #### --Power BI Visualization Elements--
+ #### Power BI Visualization Elements
  * Pie and donut charts
  * Bar charts and stacked area chart
  * Treemaps for hierarchical data
@@ -32,3 +30,8 @@ This Dashboard Visualizes
 
 ## Data Source
 - Kerala Census Data (Population and Literacy)
+
+<img width="1308" height="731" alt="Screenshot 2025-11-04 102819" src="https://github.com/user-attachments/assets/326e38d0-fd80-4c85-ae05-988e97427ea5" />
+
+<img width="1312" height="736" alt="Screenshot 2025-11-04 102840" src="https://github.com/user-attachments/assets/4d514d10-9687-4aa2-90ec-afe5e461b101" />
+
